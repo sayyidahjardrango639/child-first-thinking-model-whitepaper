@@ -46,7 +46,7 @@ The Child First Thinking Model introduces a complete, age based approach:
 
 Early childhood learning through writing, puzzles, stories, nature, and imagination
 
-Mid-school introduction to AI using the Aladdin’s Lamp Model (child = master, AI = assistant)
+Mid school introduction to AI using the Aladdin’s Lamp Model (child = master, AI = assistant)
 
 Thinking → Attempt → AI Verification sequence
 
