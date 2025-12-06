@@ -19,7 +19,9 @@ AI is taught as a research assistant, not as a replacement brain
 Files
 
 📄 Whitepaper (PDF)
+
 📘 README.md (this file)
+
 📜 LICENSE.md (CC BY-NC-ND 4.0)
 
 
